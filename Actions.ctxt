@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Actions
+comment1.params=code\ menu\ qty
+comment1.target=void\ buy(java.lang.String[],\ java.lang.String[],\ int[])
+comment2.params=code\ menu\ qty
+comment2.target=void\ returnFood(java.lang.String[],\ java.lang.String[],\ int[])
+comment3.params=code\ menu\ qty\ prices\ ctr
+comment3.target=void\ delete(java.lang.String[],\ java.lang.String[],\ int[],\ double[],\ int)
+comment4.params=code
+comment4.target=java.lang.String[]\ addCode(java.lang.String[])
+comment5.params=menu
+comment5.target=java.lang.String[]\ addMenu(java.lang.String[])
+comment6.params=price
+comment6.target=double[]\ addPrice(double[])
+numComments=7
